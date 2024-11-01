@@ -1,0 +1,365 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: skyweb-projects\n"
+"POT-Creation-Date: 2020-12-15 13:20+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: SkyWeb <hi@skyweb.site>\n"
+"Language-Team: SkyWeb\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-main.php:101
+msgid "All projects"
+msgstr ""
+
+#: includes/class-main.php:232
+msgid "No projects found."
+msgstr ""
+
+#: includes/class-main.php:338 includes/class-post-type.php:22
+msgctxt "Post Type"
+msgid "Project"
+msgstr ""
+
+#: includes/class-main.php:342
+msgid "Image"
+msgstr ""
+
+#: includes/class-main.php:395
+msgid "Free"
+msgstr ""
+
+#: includes/class-main.php:403
+msgid " $"
+msgstr ""
+
+#: includes/class-navigation.php:13
+msgid "Navigation type is not set."
+msgstr ""
+
+#: includes/class-navigation.php:20
+msgid "The first project"
+msgstr ""
+
+#: includes/class-navigation.php:23
+msgid "The last project"
+msgstr ""
+
+#: includes/class-navigation.php:34
+msgid "Previous project"
+msgstr ""
+
+#: includes/class-navigation.php:37
+msgid "Next project"
+msgstr ""
+
+#: includes/class-navigation.php:132
+#, php-format
+msgid "%sPlease refer to our other projects%s"
+msgstr ""
+
+#: includes/class-post-type.php:23
+msgctxt "Taxonomy"
+msgid "Project Type"
+msgstr ""
+
+#: includes/class-post-type.php:28 includes/class-post-type.php:49
+#: includes/class-post-type.php:63
+#, php-format
+msgctxt "Post Type"
+msgid "%ss"
+msgstr ""
+
+#: includes/class-post-type.php:30
+msgctxt "Post Type"
+msgid "Add New"
+msgstr ""
+
+#: includes/class-post-type.php:31
+#, php-format
+msgctxt "Post Type"
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-post-type.php:32
+#, php-format
+msgctxt "Post Type"
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-post-type.php:33
+#, php-format
+msgctxt "Post Type"
+msgid "New %s"
+msgstr ""
+
+#: includes/class-post-type.php:34
+#, php-format
+msgctxt "Post Type"
+msgid "View %s"
+msgstr ""
+
+#: includes/class-post-type.php:35
+#, php-format
+msgctxt "Post Type"
+msgid "View %ss"
+msgstr ""
+
+#: includes/class-post-type.php:36
+#, php-format
+msgctxt "Post Type"
+msgid "Search %ss"
+msgstr ""
+
+#: includes/class-post-type.php:37
+#, php-format
+msgctxt "Post Type"
+msgid "No %ss found"
+msgstr ""
+
+#: includes/class-post-type.php:38
+#, php-format
+msgctxt "Post Type"
+msgid "No %ss found in Trash"
+msgstr ""
+
+#: includes/class-post-type.php:39
+#, php-format
+msgctxt "Post Type"
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/class-post-type.php:40
+#, php-format
+msgctxt "Post Type"
+msgid "All %ss"
+msgstr ""
+
+#: includes/class-post-type.php:41
+#, php-format
+msgctxt "Post Type"
+msgid "%s Archives"
+msgstr ""
+
+#: includes/class-post-type.php:42
+#, php-format
+msgctxt "Post Type"
+msgid "%s Attributes"
+msgstr ""
+
+#: includes/class-post-type.php:43
+#, php-format
+msgctxt "Post Type"
+msgid "Insert into %s"
+msgstr ""
+
+#: includes/class-post-type.php:44
+#, php-format
+msgctxt "Post Type"
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: includes/class-post-type.php:50
+#, php-format
+msgctxt "Post Type"
+msgid "Filter %ss list"
+msgstr ""
+
+#: includes/class-post-type.php:51
+#, php-format
+msgctxt "Post Type"
+msgid "%ss list navigation"
+msgstr ""
+
+#: includes/class-post-type.php:52
+#, php-format
+msgctxt "Post Type"
+msgid "%ss list"
+msgstr ""
+
+#: includes/class-post-type.php:54
+#, php-format
+msgctxt "Post Type"
+msgid "%s published."
+msgstr ""
+
+#: includes/class-post-type.php:55
+#, php-format
+msgctxt "Post Type"
+msgid "%s published privately."
+msgstr ""
+
+#: includes/class-post-type.php:56
+#, php-format
+msgctxt "Post Type"
+msgid "%s reverted to draft."
+msgstr ""
+
+#: includes/class-post-type.php:57
+#, php-format
+msgctxt "Post Type"
+msgid "%s scheduled."
+msgstr ""
+
+#: includes/class-post-type.php:58
+#, php-format
+msgctxt "Post Type"
+msgid "%s updated."
+msgstr ""
+
+#: includes/class-post-type.php:65
+#, php-format
+msgctxt "Post Type description"
+msgid "Managing your %ss."
+msgstr ""
+
+#: includes/class-post-type.php:117 includes/class-post-type.php:134
+#: includes/class-post-type.php:135
+#, php-format
+msgctxt "Taxonomy"
+msgid "%ss"
+msgstr ""
+
+#: includes/class-post-type.php:119
+#, php-format
+msgctxt "Taxonomy"
+msgid "Search %ss"
+msgstr ""
+
+#: includes/class-post-type.php:120
+#, php-format
+msgctxt "Taxonomy"
+msgid "Popular %ss"
+msgstr ""
+
+#: includes/class-post-type.php:121
+#, php-format
+msgctxt "Taxonomy"
+msgid "All %ss"
+msgstr ""
+
+#: includes/class-post-type.php:124
+#, php-format
+msgctxt "Taxonomy"
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-post-type.php:125
+#, php-format
+msgctxt "Taxonomy"
+msgid "View %s"
+msgstr ""
+
+#: includes/class-post-type.php:126
+#, php-format
+msgctxt "Taxonomy"
+msgid "Update %s"
+msgstr ""
+
+#: includes/class-post-type.php:127
+#, php-format
+msgctxt "Taxonomy"
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-post-type.php:128
+#, php-format
+msgctxt "Taxonomy"
+msgid "New %s Name"
+msgstr ""
+
+#: includes/class-post-type.php:129
+#, php-format
+msgctxt "Taxonomy"
+msgid "Separate %ss with commas"
+msgstr ""
+
+#: includes/class-post-type.php:130
+#, php-format
+msgctxt "Taxonomy"
+msgid "Add or remove %ss"
+msgstr ""
+
+#: includes/class-post-type.php:131
+#, php-format
+msgctxt "Taxonomy"
+msgid "Choose from the most used %ss"
+msgstr ""
+
+#: includes/class-post-type.php:132
+#, php-format
+msgctxt "Taxonomy"
+msgid "No %ss found"
+msgstr ""
+
+#: includes/class-post-type.php:133
+#, php-format
+msgctxt "Taxonomy"
+msgid "No %ss"
+msgstr ""
+
+#: includes/class-post-type.php:136
+#, php-format
+msgctxt "Taxonomy"
+msgid "Most Used %ss"
+msgstr ""
+
+#: includes/class-post-type.php:137
+#, php-format
+msgctxt "Taxonomy"
+msgid "Back to %ss"
+msgstr ""
+
+#: includes/class-post-type.php:143
+#, php-format
+msgctxt "Taxonomy description"
+msgid "%ss of %ss"
+msgstr ""
+
+#: includes/class-post-type.php:190
+msgid "Project Information"
+msgstr ""
+
+#: includes/class-post-type.php:205 templates/single-project.php:39
+msgid "Year:"
+msgstr ""
+
+#: includes/class-post-type.php:210
+#, php-format
+msgid "When was the project completed? Example: %s"
+msgstr ""
+
+#: includes/class-post-type.php:216 templates/single-project.php:48
+msgid "Price:"
+msgstr ""
+
+#: includes/class-post-type.php:221
+msgid "What the cost of the project? Example: 1000"
+msgstr ""
+
+#: includes/class-post-type.php:227 templates/single-project.php:57
+msgid "Link:"
+msgstr ""
+
+#: includes/class-post-type.php:232
+msgid "Link to a live project. Example: https://skyweb.site"
+msgstr ""
+
+#: templates/single-project.php:30
+msgid "Project Type:"
+msgstr ""
+
+#: templates/single-project.php:81
+msgid "No project data found."
+msgstr ""

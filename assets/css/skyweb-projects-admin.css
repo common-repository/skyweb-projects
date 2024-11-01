@@ -1,0 +1,8 @@
+.skyweb-field-container label {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.skyweb-field-container .field-row {
+    margin-bottom: 10px;
+}
